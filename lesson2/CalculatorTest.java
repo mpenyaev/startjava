@@ -1,60 +1,5 @@
 import java.util.Scanner;
 
-class Calculator {
-
-	private int a;
-	private int b;
-	private int result;
-	private char sign;
-	private	int c;
-	private int d;
-
-	public void setA(int x){
-		this.a = x;
-	}
-	public void setSign(char x){
-		this.sign = x;
-	}
-	public void setB(int x){
-		this.b = x;
-	}
-	public int getResult(){
-		switch(sign){
-			case('+'):
-				result = a + b;
-				break;
-			case('-'):
-				result = a - b;
-				break;
-			case('*'):
-				result = a * b;
-				break;
-			case('/'):
-				result = a / b;
-				break;
-			case('%'):
-				result = a % b;
-				break;
-			case('^'):
-				d = b - 1;
-				if (b == 0){
-					result = 1;
-				} else{
-					result = a;
-					while (d > 0){
-						result = result * a;
-						d--;
-					}
-				}
-				break;
-			default:
-				result = 0;
-				break;
-			}
-		return result;
-	}
-}
-
 class CalculatorTest {
 	public static void main (String[] args) {
 
@@ -83,5 +28,10 @@ class CalculatorTest {
 		calc.setSign(sign[0]);
 		calc.setB(b);
 		System.out.println(a+" "+sign[0]+" "+b+" = "+calc.getResult());
+		calc.setA(0);
+		calc.setSign('-');
+		calc.setB(0);
+		System.out.println(a+" "+sign[0]+" "+b+" = "+calc.getResult());
+		System.out.println(a+" "+sign[0]+" "+b+" = "+calc.getResult(a,sign[0],b));
 	}
 }
