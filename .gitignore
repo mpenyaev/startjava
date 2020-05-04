@@ -1,0 +1,11 @@
+# all files *.class
+*.class
+
+# all files into "logs" folder
+logs/
+
+# all files *.txt
+*.txt
+
+# all files *.pdf
+*.pdf
