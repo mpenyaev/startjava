@@ -1,3 +1,10 @@
+/**
+ * Java. Game Guess the number.
+ *
+ * @author Mikhail Penyaev
+ * @version 2020-05-04
+ */
+
 package com.github.mpenyaev.startjava.guessnumber;
 
 import java.util.Scanner;
