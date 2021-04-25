@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="737716b7-b6fe-4a2f-93a8-6668a97abdeb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/jssc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoilerTester.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/lesson1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/guessnumber/guessnumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/lesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../startjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled104.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson4/src/MyArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson4/src/MyArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson4/src/MyArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson4/src/MyArrays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/Arrd354.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/conditionalstatement/ConditionalStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/cycle/Cycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/guessthenum/GuessTheNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/intro/Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/myfirstapp/MyFirstApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/mysecondapp/MySecondApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/unicodeprint/UnicodePrint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson1/variables/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/calculator/Calculator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/guessnumber/GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/guessnumber/GuessNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/guessnumber/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/jaeger/Jaeger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/jaeger/JaegerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/multiple/MultiTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/multiple/multiple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/person/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/person/PersonTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/wolf/Wolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/lesson2/wolf/WolfTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/myprojects/CatTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/myprojects/GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/myprojects/GuessNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/com/github/mpenyaev/startjava/myprojects/Player.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rFblGDwrIH4bDKuSVNaPaX0O9p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737716b7-b6fe-4a2f-93a8-6668a97abdeb" name="Default Changelist" comment="" />
+      <created>1618574933877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618574933877</updated>
+    </task>
+    <servers />
+  </component>
+</project>
